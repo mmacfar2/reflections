@@ -1,0 +1,9 @@
+ref1: it made it a lot faster to debug as opposed to manually looking through all the code to find a bug.
+ref2: having all the versions would be good becasue if something is done wrong he can just go back to old save
+ref3: con is maybe forgetting to commit for a while and then program breaks pro is if you are diligent you always have a very recent and working file
+i would prefer a hybrid with autosaves along the way and then a hard save. keep maybe 10 autosaves 1 per amount of time
+ref4: coding files sometimes refer to each other 
+ref5: git log shows all commits with messages of what was changed. git diff when given two ids shows exactly what changed
+ref6: because you can see exactly what you changed so you can either fix it or revert back
+ref7: writing code
+ref8: initializing a git repository sets it up so that you can track your code.
